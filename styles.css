@@ -1,0 +1,39 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  margin-left: 45%;
+}
+
+#classPicBox {
+  margin-left: 25%;
+  margin-top: 3%;
+}
+
+#classPic {
+  width: 80%;
+  display: inline-block;
+  border: 2px solid blue;
+}
+
+#tableDivBox {
+  display: block;
+  margin-top: 2%;
+  margin-left: 25%;
+}
+
+#btn {
+  margin-left: 2%;
+}
+
+#tableDiv {
+  margin-top: 2%;
+}
+#inputBox {
+  margin-left: 15%;
+}
+
+.table {
+  margin-left: 25%;
+}
